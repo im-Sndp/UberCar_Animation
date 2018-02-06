@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uberanimation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_directions_key"> AIzaSyAbJ5fB-wUHgVMoDYCOWS1PrAxAVPXDrS8</string>
+</resources>
