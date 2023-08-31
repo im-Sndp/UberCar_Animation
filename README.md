@@ -1,7 +1,7 @@
 <!-- UberCar Animation README -->
 
 <p align="center">
-  <img src="https://github.com/imzndp/UberCar_Animation/blob/master/res/uber0.jpeg" alt="UberCar Animation"/>
+  <img src="https://logos-world.net/wp-content/uploads/2020/05/Uber-Emblem.png" alt="UberCar Animation"/>
 </p>
 
 <h1 align="center">UberCar Animation</h1>
@@ -23,13 +23,14 @@
 
 🚀 **Android Studio Enchantment:** A mesmerizing car animation crafted with finesse on Android Studio.
 
-🚗 **Uber Aesthetics:** Draw inspiration from the signature Uber style, infusing life into our animation.
+🚗 **Uber Aesthetics:** Draw inspiration from the signature Uber-style, infusing life into our animation.
 
 🎨 **Visual Journey:** Watch as a car embarks on an animated odyssey through vibrant frames.
 
 ## App Preview
 
 <p align="center">
+  <img src="https://github.com/imzndp/UberCar_Animation/blob/master/res/uber0.jpeg" alt="App Preview"/>
   <img src="https://github.com/imzndp/UberCar_Animation/blob/master/res/uber1.jpeg" alt="App Preview"/>
 </p>
 
